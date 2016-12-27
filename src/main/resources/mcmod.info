@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autosapling",
+  "name": "AutoSapling",
+  "description": "Automatically replant saplings",
+  "version": "1.11.2-1.3.5",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lemons"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
